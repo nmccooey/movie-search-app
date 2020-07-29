@@ -1,0 +1,24 @@
+{
+  "name": "movie-search-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmccooey/movie-search-app.git"
+  },
+  "author": "Nicholas McCooey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmccooey/movie-search-app/issues"
+  },
+  "homepage": "https://github.com/nmccooey/movie-search-app#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,1 @@
+A simple movie search app that uses Express, Axios, and the OMDb API.
